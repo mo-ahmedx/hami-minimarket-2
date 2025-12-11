@@ -45,13 +45,13 @@ The project includes product search, category filtering, dynamic price filtering
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/mo-ahmedx/hami-minimarket-2.git
 ```
 
 ### **2. Navigate to Project Directory**
 
 ```bash
-cd your-repo-name
+cd hami-minimarket-2
 cd src
 ```
 
